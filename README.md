@@ -1,1 +1,1 @@
-# This file contains some java programs
+# This file contains java programs
