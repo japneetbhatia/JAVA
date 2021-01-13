@@ -1,1 +1,1 @@
-# This file contains java programs
+# This repository contains basic java programs
